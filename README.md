@@ -21,9 +21,9 @@ Calculates the optimal slot for container placement.
 {
   "container": {
     "id": "C1",
-    "size": "small",        // "small" or "big"
-    "needsCold": false,     // true if refrigeration needed
-    "x": 1, "y": 1         // current crane coordinates
+    "size": "small",        
+    "needsCold": false,     
+    "x": 1, "y": 1        
   },
   "yardMap": [
     {
