@@ -9,6 +9,19 @@ A Java Spring Boot API that implements a mathematician's algorithm for optimal c
 - **RESTful API**: Simple POST endpoint for placement requests
 - **Comprehensive Testing**: Full test suite with edge cases
 
+  ## Technologies Used
+  
+- **Java 17+**
+- **Spring Boot 3**
+- **Maven**
+- **Jackson** for JSON processing
+- **JUnit 5** for testing
+
+  ### Prerequisites
+  
+1. **Java 17+** installed
+2. **Maven** installed
+
 ## API Documentation
 
 ### POST /pickSpot
